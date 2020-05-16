@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-15T17:53:03Z" name="Default suite" finished-at="2020-05-15T17:53:25Z" duration-ms="21652">
+    <groups>
+    </groups>
+    <test started-at="2020-05-15T17:53:03Z" name="Default test" finished-at="2020-05-15T17:53:25Z" duration-ms="21652">
+      <class name="pomPack.test.LoginTest">
+        <test-method signature="testLogin()[pri:0, instance:pomPack.test.LoginTest@c430e6c]" started-at="2020-05-15T17:53:03Z" name="testLogin" finished-at="2020-05-15T17:53:24Z" duration-ms="20927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="testClosure()[pri:0, instance:pomPack.test.LoginTest@c430e6c]" started-at="2020-05-15T17:53:24Z" name="testClosure" finished-at="2020-05-15T17:53:25Z" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- pomPack.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
